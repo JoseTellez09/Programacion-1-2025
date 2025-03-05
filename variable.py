@@ -7,4 +7,4 @@ print(type(letra))
 mensaje = "hola"
 print(type(mensaje))
 estado = False
-print(type(estado))
+print(type(estado)
